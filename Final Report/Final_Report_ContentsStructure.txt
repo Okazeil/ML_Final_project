@@ -1,0 +1,46 @@
+Contents for final report:
+
+Introduction (
+-Talking of the importance of uptime within an environment where servers are needed
+-Talking about the advancement of Machine learning in the physical server department
+)
+
+Background (Maintenance)
+Background (ML -> Maintenance)
+Background (Incorporation and justification)
+
+Literature Gap (talk of whats out there and what missing and how i can add whats missing)
+
+Initial Aims 
+Tasks
+
+Introduction into tools necessary for ML(
+TensorFlow
+Numpy
+pandas
+Matplotlib
+Sklearn
+) [Complete]
+
+Introduction into Data(
+-Data Justification [Complete]
+-Data Collection [Complete]
+-Data Organisation [Complete]
+)
+
+Initial Model Developed [Complete]
+Initial Model (Manipulation Documentation)
+New Model Developed [Complete]
+New Model (Manipulation Documentation)
+
+Incoporation of data into ML Model
+Findings and Results
+What more can be done(talk about outher brands of servers & potential limitations)?
+
+Practical use within industry(
+-Jupyter notebook
+)
+
+Conclusions
+
+References + Honorable Mentions
