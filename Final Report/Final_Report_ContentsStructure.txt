@@ -28,6 +28,7 @@ Introduction into Data(
 -Data Organisation [Complete]
 )
 
+(https://chat.openai.com/share/e5e74c3f-c39c-4fef-aa15-e20996f281f6)
 Initial Model Developed [Complete]
 Initial Model (Manipulation Documentation)
 New Model Developed [Complete]
