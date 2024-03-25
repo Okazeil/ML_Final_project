@@ -7,7 +7,7 @@ The project's essence is encapsulated in the "Project Proposal" by O’Neil Stef
 which aims to leverage TensorFlow-based AI algorithms for enhancing predictive maintenance, 
 thereby optimizing the operational longevity and efficiency of physical servers.
 
-IniitialModel.ipynb & FinalModel.ipynb are to be run in Jupyter Notebook or Google Collab
-pm_sensor_data_converted.csv is the csv file to be read by the files
-pm_sensor_data_converted.csv will be ameneded as more data is collected 
-after Grading of project, ML_Final_project will allow contributors
+IniitialModel.ipynb & FinalModel.ipynb are to be run in Jupyter Notebook or Google Collab.
+pm_sensor_data_converted.csv is the csv file to be read by the files.
+pm_sensor_data_converted.csv will be ameneded as more data is collected .
+after Grading of project, ML_Final_project will allow contributors.
