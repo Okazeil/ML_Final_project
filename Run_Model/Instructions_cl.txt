@@ -1,0 +1,12 @@
+docker build -t my-model-image .
+
+docker run -p 5000:5000 my-model-image
+
+(Whilst running open another command line)
+
+(live interaction with model)
+(CommandLine)
+curl -X POST http://localhost:5000/predict -H "Content-Type: application/json" -d "{\"input\": [[27, 26, 9797.14], [30, 27, 3000]]}"
+
+(PowerShell)
+Invoke-RestMethod -Uri http://localhost:5000/predict -Method POST -ContentType "application/json" -Body '{"input": [[27, 26, 9797.14], [30, 27, 3000]]}'
