@@ -3,16 +3,16 @@ Contents for final report:
 Introduction (
 -Talking of the importance of uptime within an environment where servers are needed
 -Talking about the advancement of Machine learning in the physical server department
-)
+) Complete
 
-Background (Maintenance)
+Background (Maintenance) complete
 Background (ML -> Maintenance)
 Background (Incorporation and justification)
 
 Literature Gap (talk of whats out there and what missing and how i can add whats missing)
 
-Initial Aims 
-Tasks
+Initial Aims complete
+Tasks complete
 
 Introduction into tools necessary for ML(
 TensorFlow
@@ -28,7 +28,6 @@ Introduction into Data(
 -Data Organisation [Complete]
 )
 
-(https://chat.openai.com/share/e5e74c3f-c39c-4fef-aa15-e20996f281f6)
 Initial Model Developed [Complete]
 Initial Model (Manipulation Documentation)
 New Model Developed [Complete]
